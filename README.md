@@ -3,7 +3,7 @@
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pedro-teodoro-6b4491279/)
 
 
-![Fraga GitHub stats]((https://github-readme-stats.vercel.app/api?username=Teo442&theme=dracula_icons=true))
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Teo442&theme=dark&show_icons=true)
 
 ## Tecnologias que eu uso no meu dia
 
