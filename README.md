@@ -1,3 +1,5 @@
 ### Tecnologias que eu uso no dia a dia
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Teo442)](https://github.com/anuraghazra/github-readme-stats)
+<img alt="my stats" align="left" width="47%" src="https://github-readme-stats.vercel.app/api?username=Teo442&theme=dracula"/>
+
+<img alt="top langs" align="left" width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Teo442&layout=compact&theme=dracula"/>
